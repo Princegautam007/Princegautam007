@@ -1,22 +1,28 @@
 <div align="center">
 
-<!-- POKÉBALL TOP -->
-<img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball">
+<!-- POKÉBALL TOP — click it to open the animated version -->
+<a href="https://princegautam007.github.io/pokeball-profile/">
+  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Click the Pokéball to open my animated profile">
+</a>
 
 <details>
-<summary>Open profile</summary>
+<summary>⚪ Click the Pokéball to open my profile!</summary>
 
 <br>
 
-<!-- AVATAR — replace the URL below with your own hosted avatar image URL (see setup steps) -->
+<!-- AVATAR -->
 <img height="318" src="https://github.com/Princegautam007/Fake-news-prediction/blob/main/avatar.png?raw=true" alt="Princegautam007 avatar">
 
 <br>
 
-<!-- TYPING SVG — edit the `lines` param to customize what it cycles through -->
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Princegautam007;aka+Prince+Gautam;Welcome+to+my+profile!;Description+of+myself%3A;Web+Dev+%26+ML+Enthusiast;Open+Source+Contributor;AI+Explorer;Problem+Solver;GSSoC+Participant;Always+Learning" alt="Typing SVG">
 </a>
+
+<br>
+
+<a href="https://princegautam007.github.io/pokeball-profile/">✨ See the animated Pokéball version ✨</a>
 
 <details>
 <summary>About me</summary>
@@ -63,7 +69,7 @@
   </kbd>
   <kbd>
     <kbd>AI / ML</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow">
   </kbd>
@@ -129,7 +135,7 @@ One of my favourite quotes
 
 <div align="center">
   <a href="https://github.com/Princegautam007"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"></a>
-  <!-- Add more badges here: LinkedIn, Gmail, etc. -->
+  <a href="https://princegautam007.github.io/pokeball-profile/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Animated+Profile&color=A89568&logo=Pokemon&logoColor=FFFFFF&label=" alt="Animated profile"></a>
 </div>
 
 <hr>
@@ -138,4 +144,3 @@ One of my favourite quotes
   Credits: <a href="https://github.com/Princegautam007">Princegautam007</a> &nbsp;·&nbsp;
   Theme inspired by <a href="https://github.com/Austinae">Austinae</a>
 </p>
-
