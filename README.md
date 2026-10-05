@@ -9,7 +9,7 @@
 <br>
 
 <!-- AVATAR — replace the URL below with your own hosted avatar image URL (see setup steps) -->
-<img height="200" src="https://avatars.githubusercontent.com/u/197244450?v=4" alt="Princegautam007 avatar">
+<img height="200" src="avatar.png" alt="Princegautam007 avatar">
 
 <br>
 
