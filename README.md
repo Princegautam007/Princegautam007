@@ -115,6 +115,12 @@ One of my favourite quotes
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princegautam007/Princegautam007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princegautam007/Princegautam007/output/pacman-contribution-graph.svg">
+  <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/Princegautam007/Princegautam007/output/pacman-contribution-graph-dark.svg">
+</picture>
+
 <details>
 <summary>What can I do for you?</summary>
 
