@@ -27,7 +27,6 @@
  * Represents me.
  * @constructor
  * @param {string} name         - Princegautam007.
- * @param {string} city         - India.
  * @param {string} jobTitle     - Web Developer & ML Enthusiast.
  * @param {string} specialization - Building web apps & ML models.
  * @param {string} interests    - AI, NLP & open source.
@@ -115,7 +114,7 @@ One of my favourite quotes
 
 | Let's Work Together! | Feedback Welcome |
 |---|---|
-| If you have any questions about web development, ML or AI, feel free to [contact me](mailto:your-email@gmail.com) — I won't bite, I promise! | ![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) |
+| If you have any questions about web development, ML or AI, feel free to [contact me](mailto:princegautam67076@gmail.com) — I won't bite, I promise! | ![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) |
 
 </details>
 
